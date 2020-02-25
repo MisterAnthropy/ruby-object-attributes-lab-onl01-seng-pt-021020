@@ -5,6 +5,6 @@ class Dog
   def name
     @this_dogs_name
   end
-  dogs_name.instance_variable_set(:@name, "Fido")
+dogs_name.instance_variable_set(:@name, "Fido")
 end
 
